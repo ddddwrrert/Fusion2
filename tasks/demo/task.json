@@ -1,0 +1,5 @@
+{
+  "name": "demo",
+  "description": "Offline demo task for Fusion standalone runner (no official AHC judge).",
+  "evolve_markers": ["#EVOLVE_START", "#EVOLVE_END"]
+}
